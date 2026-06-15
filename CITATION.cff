@@ -1,1 +1,43 @@
+cff-version: 1.2.0
+title: "ShiftLab"
+message: >
+  If you use ShiftLab in your research, please cite this repository.
+type: software
 
+authors:
+  - family-names: "Kazi"
+    given-names: "Asif"
+
+abstract: >
+  ShiftLab is an open-source framework for constructing, controlling,
+  and evaluating machine learning models under decomposed distribution
+  shift settings. It enables systematic manipulation of individual shift
+  factors while holding all other distributional dimensions constant,
+  facilitating reproducible robustness and generalization studies.
+
+keywords:
+  - machine learning
+  - distribution shift
+  - robustness
+  - out-of-distribution
+  - benchmarking
+  - evaluation
+  - reproducibility
+
+license: Apache-2.0
+
+repository-code: "https://github.com/ksaad20/ShiftLab"
+
+version: "0.1.0"
+
+date-released: "2026-06-15"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Kazi"
+      given-names: "Asif"
+  title: "ShiftLab: A Framework for Controlled Distribution Shift Evaluation in Machine Learning"
+  journal: "bioRxiv"
+  year: 2026
+  doi: "10.xxxx/xxxxxx"
