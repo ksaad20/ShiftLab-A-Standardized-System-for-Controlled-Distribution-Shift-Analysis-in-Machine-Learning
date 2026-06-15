@@ -1,2 +1,2 @@
-# A-Standard-Evaluation-Benchmark-for-Machine-Learning-Models-Under-Distribution-Shift
-A standardized benchmarking framework for evaluating machine learning models under distribution shift.
+# ShiftLab: A Standardized System for Controlled Distribution Shift Analysis in Machine Learning
+ShiftLab is a standardized framework for constructing, controlling, and evaluating machine learning models under decomposed distribution shift settings. It enables isolated manipulation of individual shift factors while keeping other distributional properties fixed, allowing systematic analysis of model robustness.
