@@ -1,1 +1,1 @@
-
+# degradation under shift
