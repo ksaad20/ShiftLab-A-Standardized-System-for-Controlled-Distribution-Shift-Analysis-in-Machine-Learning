@@ -1,1 +1,1 @@
-
+# abstract Shift class
